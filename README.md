@@ -2,7 +2,6 @@
 
 ## 💡 About Me
 - 🎓 High School student who loves turning ideas into projects  
-- 💻 I code in **HTML**, **CSS**, **JavaScript**, and **Python**  
 - 📈 Entrepreneurial mindset — always thinking of what to build next  
 - 🎥 I run a YouTube channel with **23.5+ million views**  
 - 🚀 Constantly learning, experimenting, and improving
