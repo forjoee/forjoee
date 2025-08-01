@@ -1,6 +1,4 @@
 # 👋 Hey there, I'm Joseph!
-- Welcome to my GitHub! I'm a high school student who loves building, creating, and sharing.
-
 
 ## 💡 About Me
 - 🎓 High School student who loves turning ideas into projects  
