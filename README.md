@@ -17,6 +17,6 @@
 
 ## 🎯 Goals
 
-- Build more fun and useful tools for the web  
+- Build more fun and useful tools for the web and mobile in the future too
 - Grow my skills and portfolio  
 - Maybe turn one of my ideas into something big...  
