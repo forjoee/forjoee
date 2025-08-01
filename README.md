@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 - 🎓 High School student who loves turning ideas into projects  
-- 📈 Entrepreneurial mindset — always thinking of what to build next  
+- 📈 Entrepreneurial mindset — always thinking about success
 - 🎥 I run a YouTube channel with **23.5+ million views**  
 - 🚀 Constantly learning, experimenting, and improving
 
