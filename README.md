@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm \[Your Name]!
+# 👋 Hey there, I'm Joesph!
 
 Welcome to my GitHub! I'm a curious and creative high school student with a passion for building, coding, and growing cool ideas into real projects.
 
