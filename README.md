@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm \[Your Name]!
 
-<!--
-**forjoee/forjoee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a curious and creative high school student with a passion for building, coding, and growing cool ideas into real projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* 🎓 **High School Student** who loves turning ideas into projects
+* 💻 I code in **HTML**, **CSS**, **JavaScript**, and **Python**
+* 📈 **Entrepreneurial Mindset** — always thinking of what to build next
+* 🎥 I run a YouTube channel with **23.5+ million views**
+* 🚀 Constantly learning, experimenting, and improving
+
+---
+
+## 🔧 Tools & Technologies
+
+!\[HTML]\([https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=white](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white))
+
+!\[CSS]\([https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3))
+
+!\[JavaScript]\([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black))
+
+!\[Python]\([https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white))
+
+---
+
+## 🎯 Goals
+
+* Build more fun + useful tools for the web
+* Grow my skills and portfolio
+* Maybe turn one of my ideas into something big...
+
+---
